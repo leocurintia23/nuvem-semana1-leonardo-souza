@@ -20,6 +20,5 @@ apiEl.textContent = JSON.stringify(data, null, 2);
 apiEl.textContent = "Erro no fetch: " + err.message;
 }
 
-Página 4
 
 });
