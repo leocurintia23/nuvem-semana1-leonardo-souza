@@ -29,7 +29,6 @@ out.textContent = typeof obj === "string" ? obj : JSON.stringify(obj, null, 2);
 async function httpGetWeather() {
 show("Buscando clima (GET)...");
 try {
-// Open-Meteo (sem chave). Exemplo: coordenadas aproximadas do Oeste do PR.
 const url = "https://api.open-meteo.com/v1/forecast?latitude=-24.33&longitude=-53.85&current=temperature_2m,wind_speed_10m";
 const resp = await fetch(url);
 if (!resp.ok) throw new Error("HTTP " + resp.status);
