@@ -8,3 +8,12 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - nao tive dificuldades, foi facil, so demorei pra achar onde editava aqui no readme
+
+## Semana 2 
+## Links
+- Repositorio: https://github.com/leocurintia23/nuvem-semana1-leonardo-souza.git
+- Site (GitHub Pages): https://leocurintia23.github.io/nuvem-semana1-leonardo-souza/
+## O que foi feito
+-
+## Erro
+- Failed to load resource: the server responded with a status of 404 ()
