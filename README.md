@@ -15,6 +15,7 @@
 - Site (GitHub Pages): https://leocurintia23.github.io/nuvem-semana1-leonardo-souza/
 ## O que foi feito
 - Foi adicionado o GET e o POST, funcionando perfeitamente
-- 
+- GET: <img width="1093" height="772" alt="image" src="https://github.com/user-attachments/assets/eea48e7e-7f7e-45f4-81eb-f16dcb50c71f" />
+- POST: 
 ## Erro
 - Failed to load resource: the server responded with a status of 404 () somente no Chrome, no opera nao aparece este erro
